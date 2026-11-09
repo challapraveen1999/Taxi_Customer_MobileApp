@@ -1,0 +1,19 @@
+{
+    "Black": "#000000",
+    "White": "#FFFFFF",
+    "Blue": "#465BF2",
+    "Red": "#FF0000",
+    "Green": "#368b3b",
+    "PlaceHolderColor": "#A3A3A3",
+    "AppThemeColor": "#1E90FF",
+    "InputBG": "#F0F0F0",
+    "LightGreen": "#2e7d32",
+    "Orange": "#fb8c00",
+    "lightOrange": "#f4decc",
+    "lightBlack": "rgba(0,0,0,0.5)",
+    "ModalBgcolor":"#FFF1DC",
+    "InputBorder":"#ddd",
+    "EmergancylightRed":"#ffe5e5",
+    "Gray":"#808080"
+
+}
